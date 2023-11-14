@@ -79,6 +79,7 @@ flutter:
     - assets/portfolios/mycapital2.png
     - assets/portfolios/mylocker.png
     - assets/portfolios/mylocker2.png
+    - assets/portfolios/oweek.jpg
     - assets/portfolios/ucfood.png
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

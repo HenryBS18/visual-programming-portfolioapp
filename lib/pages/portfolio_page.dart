@@ -20,6 +20,10 @@ class PortfolioPage extends StatelessWidget {
                 SizedBox(
                   height: 24,
                 ),
+                ImageCard(image: AssetImage('assets/portfolios/oweek.jpg'), imageFit: 'contain', title: 'Oweek Trainee', subtitle: 'Oweek Trainee Application'),
+                SizedBox(
+                  height: 16,
+                ),
                 ImageCard(image: AssetImage('assets/portfolios/ucfood.png'), imageFit: 'contain', title: 'UC Food', subtitle: 'Food E-Commerce'),
                 SizedBox(
                   height: 16,
